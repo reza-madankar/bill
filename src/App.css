@@ -1,0 +1,18 @@
+body {
+    background-color: #efefef;
+    padding-top: 30px;
+}
+
+.paper {
+    padding: 10px 5px;
+    margin: 20px 0;
+    border-radius: 3px;
+    background-color: white;
+    -webkit-box-shadow: 0 10px 6px -6px #777;
+    -moz-box-shadow: 0 10px 6px -6px #777;
+    box-shadow: 0 10px 6px -6px #777;
+}
+
+.MuiIconButton-root {
+    color: rgb(255 35 0 / 55%)!important;
+}
